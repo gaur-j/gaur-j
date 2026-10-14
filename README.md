@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/gaur_jain21" target="blank"><img src="https://img.shields.io/twitter/follow/gaur_jain21?logo=twitter&style=for-the-badge" alt="gaur_jain21" /></a> </p>
 
-- 🔭 I’m recently completed [AI-Powered-Gemini-ChatBot](https://github.com/gaur-j/AI-Powered-Gemini-ChatBot)
+- 🔭 I’m recently completed [ATS-Resume-Optimizer](https://github.com/gaur-j/resume-optimizer)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **https://www.linkedin.com/in/gaur-j**
 
